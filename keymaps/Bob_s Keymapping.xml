@@ -15,9 +15,7 @@
   <action id="Console.TableResult.NavigateExportedAction">
     <keyboard-shortcut first-keystroke="alt f7" />
   </action>
-  <action id="Diff.NextChange">
-    <keyboard-shortcut first-keystroke="alt right" />
-  </action>
+  <action id="Diff.NextChange" />
   <action id="Diff.SelectedChange" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
