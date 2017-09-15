@@ -4,6 +4,11 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl b" />
+  </action>
+  <action id="CheckinProject" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
