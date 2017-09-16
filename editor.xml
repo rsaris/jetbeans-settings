@@ -1,8 +1,8 @@
 <application>
   <component name="EditorSettings">
+    <option name="IS_VIRTUAL_SPACE" value="true" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="RubyEditorOptions">
     <option name="startInterpolationOnHash" value="true" />
