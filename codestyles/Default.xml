@@ -1,5 +1,6 @@
 <code_scheme name="Default">
   <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="RIGHT_MARGIN" value="100" />
   <codeStyleSettings language="JSON">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
