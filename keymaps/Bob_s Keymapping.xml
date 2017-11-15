@@ -68,8 +68,7 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift alt 2" />
   </action>
-  <action id="NewElement">
-    <keyboard-shortcut first-keystroke="alt insert" />
+  <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="NextTab">
