@@ -9,6 +9,9 @@
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl b" />
   </action>
   <action id="CheckinProject" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -30,6 +33,7 @@
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
   <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="shift tab" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
@@ -61,8 +65,10 @@
   </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
-  <action id="NewElement">
-    <keyboard-shortcut first-keystroke="alt insert" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift alt 2" />
+  </action>
+  <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="NextTab">
@@ -75,9 +81,6 @@
     <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="Refactorings.QuickListPopupAction" />
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="shift alt 2" />
-  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>

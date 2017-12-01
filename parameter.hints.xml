@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Ruby">
+        <added pattern="RSpec::Core::MemoizedHelpers::ClassMethods.let!(name,block)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
