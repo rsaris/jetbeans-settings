@@ -49,11 +49,11 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
-    <keyboard-shortcut first-keystroke="shift ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
@@ -81,6 +81,7 @@
     <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="Refactorings.QuickListPopupAction" />
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
