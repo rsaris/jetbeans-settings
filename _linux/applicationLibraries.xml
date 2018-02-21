@@ -7996,6 +7996,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/surveyor-ef19e7cc5f81/config" />
       </SOURCES>
     </library>
+    <library name="surveyor (v2.0.0@a80adb, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/surveyor-a80adbd74ed1/rails" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/surveyor-a80adbd74ed1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/surveyor-a80adbd74ed1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/surveyor-a80adbd74ed1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/surveyor-a80adbd74ed1/rails" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/surveyor-a80adbd74ed1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/surveyor-a80adbd74ed1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/surveyor-a80adbd74ed1/config" />
+      </SOURCES>
+    </library>
     <library name="test-unit (v3.1.5, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/lib" />
