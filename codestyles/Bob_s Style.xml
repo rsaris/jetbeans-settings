@@ -45,6 +45,7 @@
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
+    <option name="JSX_ATTRIBUTE_VALUE" value="Based on type" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
   <Objective-C-extensions>
