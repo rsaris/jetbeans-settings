@@ -46,6 +46,7 @@
   <JSCodeStyleSettings>
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="JSX_ATTRIBUTE_VALUE" value="Based on type" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
   <Objective-C-extensions>
