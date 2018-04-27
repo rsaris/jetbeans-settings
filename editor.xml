@@ -1,0 +1,5 @@
+<application>
+  <component name="RubyEditorOptions">
+    <option name="startInterpolationOnHash" value="true" />
+  </component>
+</application>
