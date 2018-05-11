@@ -1076,6 +1076,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails_12factor-0.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="rails_or (v1.1.8, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails_or-1.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails_or-1.1.8/lib" />
+      </SOURCES>
+    </library>
     <library name="rails_serve_static_assets (v0.0.5, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails_serve_static_assets-0.0.5/lib" />
