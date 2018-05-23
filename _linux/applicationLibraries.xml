@@ -104,6 +104,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/autoprefixer-rails-5.2.1.3/lib" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails (v6.7.7.2, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/autoprefixer-rails-6.7.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/autoprefixer-rails-6.7.7.2/lib" />
+      </SOURCES>
+    </library>
     <library name="awesome_print (v1.8.0, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/awesome_print-1.8.0/lib" />
@@ -154,6 +162,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/binding_of_caller-0.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bootstrap (v4.1.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/bootstrap-4.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/bootstrap-4.1.1/lib" />
       </SOURCES>
     </library>
     <library name="bootstrap-sass (v3.3.7, rbenv: 2.4.3) [gem]">
@@ -1176,6 +1192,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/phony_rails-0.14.6/lib" />
       </SOURCES>
     </library>
+    <library name="popper_js (v1.12.9, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/popper_js-1.12.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/popper_js-1.12.9/lib" />
+      </SOURCES>
+    </library>
     <library name="power_assert (v0.4.1, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/power_assert-0.4.1/lib" />
@@ -1458,6 +1482,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/react-rails-2.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="react-rails (v2.4.4, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/react-rails-2.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/react-rails-2.4.4/lib" />
       </SOURCES>
     </library>
     <library name="redis (v3.3.5, rbenv: 2.4.3) [gem]">
