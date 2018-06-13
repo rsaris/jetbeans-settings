@@ -252,14 +252,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/lib" />
       </SOURCES>
     </library>
-    <library name="byebug (v10.0.2, rbenv: 2.4.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/lib" />
-      </SOURCES>
-    </library>
     <library name="capybara (v2.17.0, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/capybara-2.17.0/lib" />
@@ -284,14 +276,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/clipboard-rails-1.7.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/clipboard-rails-1.7.1/vendor" />
-      </SOURCES>
-    </library>
-    <library name="coffee-rails (v4.1.1, rbenv: 2.4.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/coffee-rails-4.1.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/coffee-rails-4.1.1/lib" />
       </SOURCES>
     </library>
     <library name="coffee-rails (v4.2.2, rbenv: 2.4.3) [gem]">
@@ -760,14 +744,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/jbuilder-1.5.3/lib" />
       </SOURCES>
     </library>
-    <library name="jbuilder (v2.7.0, rbenv: 2.4.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/jbuilder-2.7.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/jbuilder-2.7.0/lib" />
-      </SOURCES>
-    </library>
     <library name="jquery-rails (v4.3.1, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/jquery-rails-4.3.1/lib" />
@@ -849,14 +825,6 @@
     <library name="json (v2.0.4, rbenv: 2.4.3) [gem]">
       <CLASSES />
       <SOURCES />
-    </library>
-    <library name="json (v2.1.0, rbenv: 2.4.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/json-2.1.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/json-2.1.0/lib" />
-      </SOURCES>
     </library>
     <library name="jwt (v1.5.6, rbenv: 2.4.3) [gem]">
       <CLASSES>
@@ -1688,14 +1656,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rubocop-0.52.1/lib" />
       </SOURCES>
     </library>
-    <library name="rubocop (v0.56.0, rbenv: 2.4.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rubocop-0.56.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rubocop-0.56.0/lib" />
-      </SOURCES>
-    </library>
     <library name="ruby-debug-ide (v0.6.1, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1/lib" />
@@ -1836,14 +1796,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sinatra-1.4.8/lib" />
       </SOURCES>
     </library>
-    <library name="spring (v2.0.2, rbenv: 2.4.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/spring-2.0.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/spring-2.0.2/lib" />
-      </SOURCES>
-    </library>
     <library name="sprockets (v2.12.4, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sprockets-2.12.4/lib" />
@@ -1874,14 +1826,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sprockets-rails-3.2.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="sqlite3 (v1.3.13, rbenv: 2.4.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sqlite3-1.3.13/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sqlite3-1.3.13/lib" />
       </SOURCES>
     </library>
     <library name="stripe (v1.58.0, rbenv: 2.4.3) [gem]">
@@ -1916,6 +1860,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="test_after_commit (v1.1.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/test_after_commit-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/test_after_commit-1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="thor (v0.20.0, rbenv: 2.4.3) [gem]">
@@ -1972,22 +1924,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/timezone-1.2.9/lib" />
-      </SOURCES>
-    </library>
-    <library name="turbolinks (v5.1.1, rbenv: 2.4.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/turbolinks-5.1.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/turbolinks-5.1.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="turbolinks-source (v5.1.0, rbenv: 2.4.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/turbolinks-source-5.1.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/turbolinks-source-5.1.0/lib" />
       </SOURCES>
     </library>
     <library name="twilio-ruby (v4.13.0, rbenv: 2.4.3) [gem]">
@@ -2168,14 +2104,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/wkhtmltopdf-binary-0.12.3" />
-      </SOURCES>
-    </library>
-    <library name="wkhtmltopdf-binary (v0.12.3.1, rbenv: 2.4.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/wkhtmltopdf-binary-0.12.3.1" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/wkhtmltopdf-binary-0.12.3.1" />
       </SOURCES>
     </library>
     <library name="wkhtmltopdf-heroku (v2.12.3.0, rbenv: 2.4.3) [gem]">
