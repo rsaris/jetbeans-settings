@@ -268,6 +268,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/capybara-2.18.0/lib" />
       </SOURCES>
     </library>
+    <library name="climate_control (v0.2.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/climate_control-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/climate_control-0.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="clipboard-rails (v1.7.1, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/clipboard-rails-1.7.1/lib" />
@@ -938,6 +946,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mime-types-data-3.2016.0521/lib" />
       </SOURCES>
     </library>
+    <library name="mimemagic (v0.3.2, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mimemagic-0.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mimemagic-0.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="mini_mime (v1.0.0, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.0/lib" />
@@ -1144,6 +1160,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/os-0.9.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="paperclip (v6.0.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/paperclip-6.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/paperclip-6.0.0/lib" />
       </SOURCES>
     </library>
     <library name="parallel (v1.12.1, rbenv: 2.4.3) [gem]">
@@ -1852,6 +1876,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/surveyor-a80adbd74ed1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/surveyor-a80adbd74ed1/app" />
+      </SOURCES>
+    </library>
+    <library name="terrapin (v0.6.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/terrapin-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/terrapin-0.6.0/lib" />
       </SOURCES>
     </library>
     <library name="test-unit (v3.2.3, rbenv: 2.4.3) [gem]">
