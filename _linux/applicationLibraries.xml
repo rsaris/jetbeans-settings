@@ -130,6 +130,54 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/awesome_print-1.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-eventstream (v1.0.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-eventstream-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-eventstream-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-partitions (v1.91.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-partitions-1.91.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-partitions-1.91.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.21.2, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-core-3.21.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-core-3.21.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-kms (v1.5.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-kms-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-kms-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-s3 (v1.14.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-s3-1.14.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-s3-1.14.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sigv4 (v1.0.2, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sigv4-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sigv4-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="babel-source (v5.8.35, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/babel-source-5.8.35/lib" />
@@ -276,6 +324,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/clipboard-rails-1.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="coderay (v1.1.2, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/coderay-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/coderay-1.1.2/lib" />
       </SOURCES>
     </library>
     <library name="coffee-rails (v4.1.1, rbenv: 2.4.3) [gem]">
@@ -754,6 +810,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/jbuilder-2.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="jmespath (v1.4.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/jmespath-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/jmespath-1.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="jquery-rails (v4.3.1, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/jquery-rails-4.3.1/lib" />
@@ -924,6 +988,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/memoist-0.16.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="method_source (v0.9.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/method_source-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/method_source-0.9.0/lib" />
       </SOURCES>
     </library>
     <library name="mime-types (v3.1, rbenv: 2.4.3) [gem]">
@@ -1240,6 +1312,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry (v0.11.3, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/pry-0.11.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/pry-0.11.3/lib" />
       </SOURCES>
     </library>
     <library name="psych (v2.2.2, rbenv: 2.4.3) [gem]">
