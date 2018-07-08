@@ -1866,14 +1866,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sdoc-1.0.0/lib" />
       </SOURCES>
     </library>
-    <library name="sentry-raven (v2.7.4, rbenv: 2.4.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sentry-raven-2.7.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sentry-raven-2.7.4/lib" />
-      </SOURCES>
-    </library>
     <library name="signet (v0.8.1, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/signet-0.8.1/lib" />
