@@ -77,6 +77,12 @@
       <pair source="c" header="h" />
     </extensions>
   </Objective-C-extensions>
+  <SqlCodeStyleSettings version="1">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="SUBQUERY_R_PAR_ALIGN" value="3" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="SELECT_ALIGN_AS" value="false" />
+  </SqlCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
