@@ -1,0 +1,18 @@
+<application>
+  <component name="SFAccounts">
+    <SFAccount>
+      <password>dfcedfeedfd8dfc7df80dfdfdf9cdf9fdfecdf9adf92dfd3</password>
+      <token>df9edfd9dfe8dfc7df9cdfc4dfc3dfe4df9ddfc5dfc6dff9dfc7dfe9dff0dfe2dfccdff0dfe6dff3dfcedfc6dfcddfdc</token>
+      <username>dfcedfcfdfc4dfc4dfc3dfd9dfeadfdfdfd9dfcfdfd8dfc3dfc4dfdedfcfdfd8dfdcdfc3dfcfdfdddfd9df84dfc9dfc5dfc7</username>
+      <name>Production</name>
+    </SFAccount>
+    <SFAccount>
+      <password>dfcedfeedfd8dfc7df80dfdfdf9cdf9fdfecdf9adf92dfd3</password>
+      <token>df9edfd9dfe8dfc7df9cdfc4dfc3dfe4df9ddfc5dfc6dff9dfc7dfe9dff0dfe2dfccdff0dfe6dff3dfcedfc6dfcddfdc</token>
+      <username>dfcedfcfdfc4dfc4dfc3dfd9dfeadfdfdfd9dfcfdfd8dfc3dfc4dfdedfcfdfd8dfdcdfc3dfcfdfdddfd9df84dfc9dfc5dfc7df84dfc6dfc5dfc9dfcbdfc6dfc8dfc5dfc8</username>
+      <option name="loginUrl" value="https://test.salesforce.com/" />
+      <name>Test</name>
+      <namespacePrefix />
+    </SFAccount>
+  </component>
+</application>
