@@ -3,7 +3,7 @@
     <property name="created">2018-11-26T14:59:40</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-11-26T15:03:49</property>
+    <property name="modified">2018-11-27T09:28:58</property>
     <property name="originalScheme">Monokai copy</property>
   </metaInfo>
   <colors>
@@ -483,7 +483,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FOREGROUND" value="769df8" />
       </value>
     </option>
     <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
@@ -1309,11 +1309,7 @@
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
-    <option name="RUBY_LOCAL_VAR_ID">
-      <value>
-        <option name="FOREGROUND" value="5d6af8" />
-      </value>
-    </option>
+    <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="RUBY_METHOD_NAME">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
