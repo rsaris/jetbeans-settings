@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="JetForcer Conflicts Check Suppress" displayType="NONE" shouldLog="false" />
-  </component>
-</application>
