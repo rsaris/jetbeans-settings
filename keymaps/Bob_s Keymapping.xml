@@ -4,10 +4,6 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
-  <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="alt 1" />
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl b" />
-  </action>
   <action id="CheckinProject" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -15,9 +11,11 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.NavigateExportedAction">
     <keyboard-shortcut first-keystroke="alt f7" />
   </action>
+  <action id="Diff.FocusOppositePane" />
   <action id="Diff.NextChange" />
   <action id="Diff.SelectedChange" />
   <action id="Editor Redo">
@@ -54,6 +52,7 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
@@ -64,7 +63,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
   </action>
   <action id="GotoTest" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
   <action id="Images.ShowThumbnails" />
+  <action id="IntroduceField" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift alt 2" />
   </action>
@@ -81,7 +84,13 @@
     <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="Refactorings.QuickListPopupAction" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -97,9 +106,13 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift alt 1" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
 </keymap>
