@@ -110,11 +110,6 @@
       <artifact name="PostgreSQL" use="true" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
-      <option name="send-app-info" value="false" />
-    </driver>
-    <driver id="snowflake">
-      <artifact name="Snowflake" use="true" />
-      <option name="auto-sync" value="true" />
     </driver>
   </component>
 </application>
