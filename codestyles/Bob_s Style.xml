@@ -35,7 +35,6 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="100" />
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="SOFT_MARGINS" value="80,100" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
@@ -44,6 +43,18 @@
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
   </CssCodeStyleSettings>
+  <DB2CodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="SELECT_ALIGN_AS" value="false" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+  </DB2CodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
@@ -68,6 +79,38 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
+  <DerbyCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="SELECT_ALIGN_AS" value="false" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+  </DerbyCodeStyleSettings>
+  <H2CodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="SELECT_ALIGN_AS" value="false" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="SELECT_ALIGN_AS" value="false" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+  </HSQLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
@@ -77,6 +120,28 @@
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
+  <MSSQLCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="SELECT_ALIGN_AS" value="false" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+  </MSSQLCodeStyleSettings>
+  <MySQLCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="SELECT_ALIGN_AS" value="false" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+  </MySQLCodeStyleSettings>
   <Objective-C-extensions>
     <file>
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
@@ -102,6 +167,40 @@
       <pair source="c" header="h" fileNamingConvention="NONE" />
     </extensions>
   </Objective-C-extensions>
+  <OracleCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="SELECT_ALIGN_AS" value="false" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+  </OracleCodeStyleSettings>
+  <PostgresCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="SELECT_ALIGN_AS" value="false" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+  </PostgresCodeStyleSettings>
+  <SQLiteCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="SELECT_ALIGN_AS" value="false" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+  </SQLiteCodeStyleSettings>
   <SqlCodeStyleSettings version="1">
     <option name="myVersion" value="1" />
     <option name="KEYWORD_CASE" value="0" />
@@ -115,6 +214,18 @@
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="SUBQUERY_R_PAR_ALIGN" value="3" />
   </SqlCodeStyleSettings>
+  <SybaseCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="SELECT_ALIGN_AS" value="false" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+  </SybaseCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
