@@ -15,6 +15,10 @@
   <action id="Console.TableResult.NavigateExportedAction">
     <keyboard-shortcut first-keystroke="alt f7" />
   </action>
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.NextChange" />
   <action id="Diff.SelectedChange" />
@@ -68,6 +72,9 @@
   </action>
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceField" />
+  <action id="Jdbc.OpenConsole.New">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift alt 2" />
   </action>
