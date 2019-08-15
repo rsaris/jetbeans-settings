@@ -1,19 +1,18 @@
 <application>
   <component name="SFAccounts">
     <SFAccount>
-      <password>dfcedfeedfd8dfc7df80dfdfdf9cdf9fdfecdf9adf92dfd3</password>
-      <token>df9edfd9dfe8dfc7df9cdfc4dfc3dfe4df9ddfc5dfc6dff9dfc7dfe9dff0dfe2dfccdff0dfe6dff3dfcedfc6dfcddfdc</token>
-      <username>dfcedfcfdfc4dfc4dfc3dfd9dfeadfdfdfd9dfcfdfd8dfc3dfc4dfdedfcfdfd8dfdcdfc3dfcfdfdddfd9df84dfc9dfc5dfc7</username>
+      <loginUrl>https://login.salesforce.com/</loginUrl>
       <name>Production</name>
-      <namespacePrefix />
+      <theCode>dfe4dfc7dfd2dfcddf9cdfd8dfdcdff5dfdfdfd9dfdcdfc9dff8dfcedfc1dfd9dfcedf8bdf98dfd9</theCode>
+      <token>dfd2dffddff2dfd0dfc9dfdadfdbdf9bdfefdfcfdffbdfe9dfe9dfefdfcbdfe0dfe4dfe7dfd3dff0dfc2df9bdfffdfccdfe4</token>
+      <username>dfcedfcfdfc4dfc4dfc3dfd9dfeadfdfdfd9dfcfdfd8dfc3dfc4dfdedfcfdfd8dfdcdfc3dfcfdfdddfd9df84dfc9dfc5dfc7</username>
     </SFAccount>
     <SFAccount>
-      <password>dfcedfeedfd8dfc7df80dfdfdf9cdf9fdfecdf9adf92dfd3</password>
-      <token>df9edfd9dfe8dfc7df9cdfc4dfc3dfe4df9ddfc5dfc6dff9dfc7dfe9dff0dfe2dfccdff0dfe6dff3dfcedfc6dfcddfdc</token>
-      <username>dfcedfcfdfc4dfc4dfc3dfd9dfeadfdfdfd9dfcfdfd8dfc3dfc4dfdedfcfdfd8dfdcdfc3dfcfdfdddfd9df84dfc9dfc5dfc7df84dfc6dfc5dfc9dfcbdfc6dfc8dfc5dfc8</username>
-      <option name="loginUrl" value="https://test.salesforce.com/" />
+      <loginUrl>https://test.salesforce.com/</loginUrl>
       <name>Test</name>
-      <namespacePrefix />
+      <theCode>dfe4dfc7dfd2dfcddf9cdfd8dfdcdff5dfdfdfd9dfdcdfc9dff8dfcedfc1dfd9dfcedf8bdf98dfd9</theCode>
+      <token>dfd2dffddff2dfd0dfc9dfdadfdbdf9bdfefdfcfdffbdfe9dfe9dfefdfcbdfe0dfe4dfe7dfd3dff0dfc2df9bdfffdfccdfe4</token>
+      <username>dfcedfcfdfc4dfc4dfc3dfd9dfeadfdfdfd9dfcfdfd8dfc3dfc4dfdedfcfdfd8dfdcdfc3dfcfdfdddfd9df84dfc9dfc5dfc7df84dfc6dfc5dfc9dfcbdfc6dfc8dfc5dfc8</username>
     </SFAccount>
   </component>
 </application>
