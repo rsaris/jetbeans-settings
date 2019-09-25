@@ -23,5 +23,6 @@
     <mask>*.jsx.erb</mask>
     <mask>*.jsx</mask>
     <mask>*.rb</mask>
+    <mask>*.erb</mask>
   </component>
 </application>
