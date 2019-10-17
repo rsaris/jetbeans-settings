@@ -3,7 +3,9 @@
     <blacklists>
       <blacklist language="TypeScript" />
       <blacklist language="JavaScript" />
-      <blacklist language="Ruby" />
+      <blacklist language="Ruby">
+        <added pattern="RSpec::Matchers.contain_exactly(items)" />
+      </blacklist>
       <blacklist language="SQL" />
     </blacklists>
   </component>
