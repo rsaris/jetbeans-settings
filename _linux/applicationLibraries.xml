@@ -1028,6 +1028,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/babel-source-5.8.35/lib" />
       </SOURCES>
     </library>
+    <library name="babel-source (v5.8.35, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/babel-source-5.8.35/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/babel-source-5.8.35/lib" />
+      </SOURCES>
+    </library>
     <library name="babel-transpiler (v0.7.0, rbenv: 2.4.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1037,6 +1048,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/babel-transpiler-0.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="babel-transpiler (v0.7.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/babel-transpiler-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/babel-transpiler-0.7.0/lib" />
       </SOURCES>
     </library>
     <library name="bcrypt (v3.1.12, rbenv: 2.4.5) [gem]" type="rubylib">
@@ -1821,6 +1843,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/connection_pool-2.2.2/test" />
       </excluded>
     </library>
+    <library name="connection_pool (v2.2.2, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/connection_pool-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/connection_pool-2.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/connection_pool-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/connection_pool-2.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/connection_pool-2.2.2/test" />
+      </excluded>
+    </library>
     <library name="crass (v1.0.4, rbenv: 2.4.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2497,6 +2535,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/execjs-2.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="execjs (v2.7.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/execjs-2.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/execjs-2.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="factory_bot (v4.8.2, rbenv: 2.4.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2758,6 +2807,31 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/foreman-0.85.0/man" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/foreman-0.85.0/data" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/foreman-0.85.0/spec" />
+      </excluded>
+    </library>
+    <library name="foreman (v0.86.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/foreman-0.86.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/foreman-0.86.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/foreman-0.86.0/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/foreman-0.86.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/foreman-0.86.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/foreman-0.86.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/foreman-0.86.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/foreman-0.86.0/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/foreman-0.86.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/foreman-0.86.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/foreman-0.86.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/foreman-0.86.0/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/foreman-0.86.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/foreman-0.86.0/spec" />
       </excluded>
     </library>
     <library name="forwardable (v1.2.0, rbenv: 2.6.5) [gem]" type="rubylib">
@@ -6584,6 +6658,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/react-rails-2.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="react-rails (v2.6.1, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/react-rails-2.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/react-rails-2.6.1/lib" />
       </SOURCES>
     </library>
     <library name="redis (v3.3.5, rbenv: 2.4.5) [gem]" type="rubylib">
