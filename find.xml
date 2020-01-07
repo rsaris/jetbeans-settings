@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,10 +23,10 @@
     <mask>*.jsx.erb</mask>
     <mask>*.erb</mask>
     <mask>*.rb</mask>
-    <mask>*.scss</mask>
     <mask>*.jsx</mask>
     <mask>*.html.erb</mask>
     <mask>css</mask>
     <mask>rb</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
