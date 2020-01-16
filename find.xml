@@ -22,10 +22,10 @@
     <mask>*.jsx.erb</mask>
     <mask>*.erb</mask>
     <mask>*.rb</mask>
-    <mask>*.scss</mask>
-    <mask>*.jsx</mask>
     <mask>*.html.erb</mask>
     <mask>css</mask>
     <mask>rb</mask>
+    <mask>*.scss</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
