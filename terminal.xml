@@ -2,5 +2,6 @@
   <component name="TerminalOptionsProvider">
     <option name="myShellIntegration" value="false" />
     <option name="myShellPath" value="/bin/bash -i" />
+    <option name="mySoundBell" value="false" />
   </component>
 </application>
