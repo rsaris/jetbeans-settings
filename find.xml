@@ -18,7 +18,6 @@
     <mask>*.js</mask>
     <mask>*.js.erb</mask>
     <mask>*.jsx.erb</mask>
-    <mask>*.rb</mask>
     <mask>*.html.erb</mask>
     <mask>css</mask>
     <mask>rb</mask>
@@ -26,5 +25,6 @@
     <mask>*.js*</mask>
     <mask>*.jsx</mask>
     <mask>*.scss</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
