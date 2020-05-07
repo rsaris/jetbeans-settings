@@ -2985,6 +2985,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/debase-0.3.0.beta3/test" />
       </excluded>
     </library>
+    <library name="debase (v0.3.0.beta34, rbenv: 2.4.10) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/debase-0.3.0.beta34/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/debase-0.3.0.beta34/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/debase-0.3.0.beta34/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/debase-0.3.0.beta34/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/debase-0.3.0.beta34/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/debase-0.3.0.beta34/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/debase-0.3.0.beta34/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/debase-0.3.0.beta34/test" />
+      </excluded>
+    </library>
     <library name="debase (v0.3.0.beta34, rbenv: 2.4.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3062,6 +3081,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/debase-ruby_core_source-0.10.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.9, rbenv: 2.4.10) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/debase-ruby_core_source-0.10.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/debase-ruby_core_source-0.10.9/lib" />
       </SOURCES>
     </library>
     <library name="declarative (v0.0.10, rbenv: 2.4.10) [gem]" type="rubylib">
@@ -3875,6 +3905,31 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/foreman-0.87.1/man" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/foreman-0.87.1/data" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/foreman-0.87.1/spec" />
+      </excluded>
+    </library>
+    <library name="foreman (v0.87.1, rbenv: 2.4.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/foreman-0.87.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/foreman-0.87.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/foreman-0.87.1/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/foreman-0.87.1/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/foreman-0.87.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/foreman-0.87.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/foreman-0.87.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/foreman-0.87.1/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/foreman-0.87.1/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/foreman-0.87.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/foreman-0.87.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/foreman-0.87.1/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/foreman-0.87.1/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/foreman-0.87.1/spec" />
       </excluded>
     </library>
     <library name="fugit (v1.3.3, rbenv: 2.4.5) [gem]" type="rubylib">
@@ -9883,6 +9938,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.8.0.beta21/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.8.0.beta21/ext" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.8.0.beta24, rbenv: 2.4.10) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.8.0.beta24/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.8.0.beta24/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.8.0.beta24/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.8.0.beta24/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.8.0.beta24/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.8.0.beta24/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.8.0.beta24/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.8.0.beta24/ext" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v0.8.0.beta24, rbenv: 2.4.5) [gem]" type="rubylib">
