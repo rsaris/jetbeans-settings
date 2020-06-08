@@ -6,9 +6,10 @@
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping pattern=".legacy" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping ext="foreman-resque" type="PLAIN_TEXT" />
+      <mapping ext="development-ssl" type="PLAIN_TEXT" />
+      <mapping ext="development-https" type="PLAIN_TEXT" />
+      <mapping ext="development-resque" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
-      <mapping ext="foreman-http" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
