@@ -3939,6 +3939,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/font-awesome-rails-4.7.0.5/test" />
       </excluded>
     </library>
+    <library name="font-awesome-sass (v5.13.0, rbenv: 2.4.10) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/font-awesome-sass-5.13.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/font-awesome-sass-5.13.0/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/font-awesome-sass-5.13.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/font-awesome-sass-5.13.0/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/font-awesome-sass-5.13.0/assets" />
+      </excluded>
+    </library>
     <library name="font-awesome-sass (v5.5.0.1, rbenv: 2.4.10) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9441,6 +9457,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/redis-namespace-1.6.0/spec" />
       </excluded>
     </library>
+    <library name="redis-namespace (v1.7.0, rbenv: 2.4.10) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/redis-namespace-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/redis-namespace-1.7.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/redis-namespace-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/redis-namespace-1.7.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/redis-namespace-1.7.0/spec" />
+      </excluded>
+    </library>
     <library name="ref (v2.0.0, rbenv: 2.4.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11105,6 +11137,31 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/shoulda-matchers-4.3.0/docs" />
+      </excluded>
+    </library>
+    <library name="sidekiq (v5.2.9, rbenv: 2.4.10) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/sidekiq-5.2.9/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/sidekiq-5.2.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/sidekiq-5.2.9/web" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/sidekiq-5.2.9/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/sidekiq-5.2.9/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/sidekiq-5.2.9/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/sidekiq-5.2.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/sidekiq-5.2.9/web" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/sidekiq-5.2.9/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/sidekiq-5.2.9/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/sidekiq-5.2.9/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/sidekiq-5.2.9/web" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/sidekiq-5.2.9/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/sidekiq-5.2.9/.circleci" />
       </excluded>
     </library>
     <library name="signet (v0.11.0, rbenv: 2.4.10) [gem]" type="rubylib">
