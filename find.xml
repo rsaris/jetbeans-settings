@@ -18,13 +18,13 @@
     <mask>*.js</mask>
     <mask>*.js.erb</mask>
     <mask>*.jsx.erb</mask>
-    <mask>*.html.erb</mask>
     <mask>css</mask>
     <mask>rb</mask>
     <mask>*.erb</mask>
     <mask>*.js*</mask>
     <mask>*.scss</mask>
-    <mask>*.rb</mask>
     <mask>*.jsx</mask>
+    <mask>*.rb</mask>
+    <mask>*.html.erb</mask>
   </component>
 </application>
