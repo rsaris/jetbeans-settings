@@ -4629,6 +4629,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/less-rails-2.8.0/gemfiles" />
       </excluded>
     </library>
+    <library name="license-list (v1.0.1, rbenv: 2.4.10) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/license-list-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/license-list-1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="lograge (v0.11.2, rbenv: 2.4.10) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
