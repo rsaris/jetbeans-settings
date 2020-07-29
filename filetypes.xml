@@ -1,15 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".irbrc" type="PLAIN_TEXT" />
       <mapping pattern=".foreman" type="PLAIN_TEXT" />
+      <mapping pattern=".irbrc" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping pattern=".legacy" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="development-ssl" type="PLAIN_TEXT" />
-      <mapping ext="development-https" type="PLAIN_TEXT" />
       <mapping ext="development-resque" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
+      <mapping ext="development-https" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
