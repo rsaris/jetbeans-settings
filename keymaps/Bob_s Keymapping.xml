@@ -10,6 +10,9 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateQuokkaToolWindow">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
@@ -45,6 +48,7 @@
   </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
+  <action id="EditorContextInfo" />
   <action id="EditorDeleteLine" />
   <action id="EditorIndentSelection">
     <keyboard-shortcut first-keystroke="tab" />
