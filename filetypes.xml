@@ -5,6 +5,7 @@
       <mapping pattern=".irbrc" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".legacy" type="PLAIN_TEXT" />
       <mapping ext="development-ssl" type="PLAIN_TEXT" />
       <mapping ext="br" type="PLAIN_TEXT" />

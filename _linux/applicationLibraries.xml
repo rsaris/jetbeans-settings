@@ -4524,6 +4524,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/faraday-0.17.3/test" />
       </excluded>
     </library>
+    <library name="faraday (v1.0.1, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/faraday-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/faraday-1.0.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/faraday-1.0.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/faraday-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/faraday-1.0.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/faraday-1.0.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/faraday-1.0.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/faraday-1.0.1/examples" />
+      </excluded>
+    </library>
     <library name="faraday_middleware (v0.12.2, rbenv: 2.4.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6472,6 +6491,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/jwt-2.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="jwt (v2.2.2, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/jwt-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/jwt-2.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="kgio (v2.11.2, rbenv: 2.4.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7701,6 +7731,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/multi_xml-0.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="multi_xml (v0.6.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/multi_xml-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/multi_xml-0.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="multipart-post (v2.0.0, rbenv: 2.4.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7747,6 +7788,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/multipart-post-2.1.1/spec" />
+      </excluded>
+    </library>
+    <library name="multipart-post (v2.1.1, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/multipart-post-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/multipart-post-2.1.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/multipart-post-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/multipart-post-2.1.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/multipart-post-2.1.1/spec" />
       </excluded>
     </library>
     <library name="mustache (v0.99.8, rbenv: 2.4.10) [gem]" type="rubylib">
@@ -8442,6 +8499,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/oauth2-1.4.4/gemfiles" />
       </excluded>
     </library>
+    <library name="oauth2 (v1.4.4, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/oauth2-1.4.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/oauth2-1.4.4/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/oauth2-1.4.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/oauth2-1.4.4/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/oauth2-1.4.4/gemfiles" />
+      </excluded>
+    </library>
     <library name="omniauth (v1.9.0, rbenv: 2.4.10) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8636,6 +8709,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/omniauth-google-oauth2-0.8.0/examples" />
       </excluded>
     </library>
+    <library name="omniauth-google-oauth2 (v0.8.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-google-oauth2-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-google-oauth2-0.8.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-google-oauth2-0.8.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-google-oauth2-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-google-oauth2-0.8.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-google-oauth2-0.8.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-google-oauth2-0.8.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-google-oauth2-0.8.0/examples" />
+      </excluded>
+    </library>
     <library name="omniauth-linkedin-oauth2 (v0.2.5, rbenv: 2.4.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8787,6 +8879,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/omniauth-oauth2-1.7.0/spec" />
+      </excluded>
+    </library>
+    <library name="omniauth-oauth2 (v1.7.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-oauth2-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-oauth2-1.7.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-oauth2-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-oauth2-1.7.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-oauth2-1.7.0/spec" />
       </excluded>
     </library>
     <library name="omniauth-rails_csrf_protection (v0.1.2, rbenv: 2.4.10) [gem]" type="rubylib">
