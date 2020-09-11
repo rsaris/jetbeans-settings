@@ -5458,6 +5458,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/hashie-3.6.0/spec" />
       </excluded>
     </library>
+    <library name="hashie (v4.1.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/hashie-4.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/hashie-4.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="health_check (v3.0.0, rbenv: 2.4.10) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7657,6 +7668,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/multi_json-1.15.0/lib" />
       </SOURCES>
     </library>
+    <library name="multi_json (v1.15.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/multi_json-1.15.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/multi_json-1.15.0/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_xml (v0.6.0, rbenv: 2.4.10) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8356,6 +8378,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.5/suppressions" />
       </excluded>
     </library>
+    <library name="oauth (v0.5.4, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/oauth-0.5.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/oauth-0.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/oauth-0.5.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/oauth-0.5.4/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/oauth-0.5.4/bin" />
+      </excluded>
+    </library>
     <library name="oauth2 (v1.4.1, rbenv: 2.4.10) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8452,6 +8490,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/omniauth-1.9.1/.github" />
       </excluded>
     </library>
+    <library name="omniauth (v1.9.1, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-1.9.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-1.9.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-1.9.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-1.9.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-1.9.1/.github" />
+      </excluded>
+    </library>
     <library name="omniauth-facebook (v4.0.0, rbenv: 2.4.10) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8488,6 +8542,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/omniauth-facebook-4.0.0/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/omniauth-facebook-4.0.0/example" />
+      </excluded>
+    </library>
+    <library name="omniauth-google (v1.0.2, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-google-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-google-1.0.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-google-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-google-1.0.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-google-1.0.2/spec" />
       </excluded>
     </library>
     <library name="omniauth-google-oauth2 (v0.5.4, rbenv: 2.4.5) [gem]" type="rubylib">
@@ -8653,6 +8723,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/bundler/gems/omniauth-microsoft_graph-f3a96241baf4/.git" />
+      </excluded>
+    </library>
+    <library name="omniauth-oauth (v1.1.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-oauth-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-oauth-1.1.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-oauth-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-oauth-1.1.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/omniauth-oauth-1.1.0/spec" />
       </excluded>
     </library>
     <library name="omniauth-oauth2 (v1.6.0, rbenv: 2.4.10) [gem]" type="rubylib">
