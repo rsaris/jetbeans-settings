@@ -5575,22 +5575,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/health_check-3.0.0/config" />
       </excluded>
     </library>
-    <library name="hellosign-ruby-sdk (v3.7.7, rbenv: 2.4.10) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/hellosign-ruby-sdk-3.7.7/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/hellosign-ruby-sdk-3.7.7/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/hellosign-ruby-sdk-3.7.7/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/hellosign-ruby-sdk-3.7.7/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.10/lib/ruby/gems/2.4.0/gems/hellosign-ruby-sdk-3.7.7/spec" />
-      </excluded>
-    </library>
     <library name="htmlentities (v4.3.4, rbenv: 2.4.10) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
