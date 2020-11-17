@@ -7036,6 +7036,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/health_check-3.0.0/config" />
       </excluded>
     </library>
+    <library name="hellosign-ruby-sdk (v3.7.7, rbenv: 2.5.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/hellosign-ruby-sdk-3.7.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/hellosign-ruby-sdk-3.7.7/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/hellosign-ruby-sdk-3.7.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/hellosign-ruby-sdk-3.7.7/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/hellosign-ruby-sdk-3.7.7/spec" />
+      </excluded>
+    </library>
     <library name="htmlentities (v4.3.4, rbenv: 2.4.10) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12106,6 +12122,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/postmark-1.16.0/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/postmark-1.16.0/gemfiles" />
+      </excluded>
+    </library>
+    <library name="postmark (v1.21.2, rbenv: 2.5.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/postmark-1.21.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/postmark-1.21.2/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/postmark-1.21.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/postmark-1.21.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/postmark-1.21.2/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/postmark-1.21.2/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/postmark-1.21.2/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/postmark-1.21.2/gemfiles" />
       </excluded>
     </library>
     <library name="power_assert (v0.4.1, rbenv: 2.4.10) [gem]" type="rubylib">
@@ -21308,6 +21343,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-2f9055d47141/.git" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-2f9055d47141/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-2f9055d47141/.circleci" />
+      </excluded>
+    </library>
+    <library name="zoom_rb (v0.10.0@5ac0fe, rbenv: 2.5.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/.circleci" />
       </excluded>
     </library>
     <library name="zoom_rb (v0.10.0@b31128, rbenv: 2.5.8) [gem]" type="rubylib">
