@@ -21297,6 +21297,50 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/zeitwerk-2.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="zoom_rb (v0.10.0@2f9055, rbenv: 2.5.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-2f9055d47141/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-2f9055d47141/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-2f9055d47141/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-2f9055d47141/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-2f9055d47141/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-2f9055d47141/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-2f9055d47141/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-2f9055d47141/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-2f9055d47141/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-2f9055d47141/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-2f9055d47141/.circleci" />
+      </excluded>
+    </library>
+    <library name="zoom_rb (v0.10.0@5ac0fe, rbenv: 2.5.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/.circleci" />
+      </excluded>
+    </library>
     <library name="zoom_rb (v0.10.0@5ac0fe, rbenv: 2.5.8) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -21339,28 +21383,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-b31128db9110/.git" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-b31128db9110/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-b31128db9110/.circleci" />
-      </excluded>
-    </library>
-    <library name="zoom_rb (v0.10.0@5ac0fe, rbenv: 2.5.8) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/spec" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/.circleci" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/spec" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/.circleci" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/spec" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/bundler/gems/zoom_rb-5ac0fe69b17d/.circleci" />
       </excluded>
     </library>
     <library name="zoom_rb (v0.10.0@b31128, rbenv: 2.5.8) [gem]" type="rubylib">
