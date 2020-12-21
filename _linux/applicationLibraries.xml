@@ -6487,6 +6487,27 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/jquery-ui-rails-6.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="js-routes (v1.4.13, rbenv: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/js-routes-1.4.13/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/js-routes-1.4.13/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/js-routes-1.4.13/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/js-routes-1.4.13/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/js-routes-1.4.13/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/js-routes-1.4.13/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/js-routes-1.4.13/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/js-routes-1.4.13/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/js-routes-1.4.13/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/js-routes-1.4.13/gemfiles" />
+      </excluded>
+    </library>
     <library name="js-routes (v1.4.4, rbenv: 2.4.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
