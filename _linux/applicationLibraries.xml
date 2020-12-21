@@ -1746,6 +1746,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/babel-source-5.8.35/lib" />
       </SOURCES>
     </library>
+    <library name="babel-source (v5.8.35, rbenv: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/babel-source-5.8.35/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/babel-source-5.8.35/lib" />
+      </SOURCES>
+    </library>
     <library name="babel-transpiler (v0.7.0, rbenv: 2.4.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1766,6 +1777,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/babel-transpiler-0.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="babel-transpiler (v0.7.0, rbenv: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/babel-transpiler-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/babel-transpiler-0.7.0/lib" />
       </SOURCES>
     </library>
     <library name="backport (v1.1.2, rbenv: 2.4.5) [gem]" type="rubylib">
@@ -3342,6 +3364,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/connection_pool-2.2.2/test" />
       </excluded>
     </library>
+    <library name="connection_pool (v2.2.3, rbenv: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/connection_pool-2.2.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/connection_pool-2.2.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/connection_pool-2.2.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/connection_pool-2.2.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/connection_pool-2.2.3/test" />
+      </excluded>
+    </library>
     <library name="crass (v1.0.4, rbenv: 2.4.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4642,6 +4680,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/execjs-2.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="execjs (v2.7.0, rbenv: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/execjs-2.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/execjs-2.7.0/lib" />
       </SOURCES>
     </library>
     <library name="factory_bot (v4.8.2, rbenv: 2.4.5) [gem]" type="rubylib">
@@ -10394,6 +10443,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/pundit-1.1.0/spec" />
       </excluded>
     </library>
+    <library name="pundit (v2.1.0, rbenv: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/pundit-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/pundit-2.1.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/pundit-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/pundit-2.1.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/pundit-2.1.0/spec" />
+      </excluded>
+    </library>
     <library name="raabro (v1.1.6, rbenv: 2.4.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11998,6 +12063,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/react-rails-2.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="react-rails (v2.6.1, rbenv: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/react-rails-2.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/react-rails-2.6.1/lib" />
       </SOURCES>
     </library>
     <library name="redis (v3.3.5, rbenv: 2.4.5) [gem]" type="rubylib">
@@ -15415,6 +15491,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/tilt-2.0.10/bin" />
+      </excluded>
+    </library>
+    <library name="tilt (v2.0.10, rbenv: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/tilt-2.0.10/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/tilt-2.0.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/tilt-2.0.10/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/tilt-2.0.10/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/tilt-2.0.10/bin" />
       </excluded>
     </library>
     <library name="tilt (v2.0.9, rbenv: 2.4.5) [gem]" type="rubylib">
