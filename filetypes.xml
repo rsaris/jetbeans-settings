@@ -1,21 +1,20 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="webp" type="Image" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern=".legacy" type="PLAIN_TEXT" />
       <mapping pattern=".foreman" type="PLAIN_TEXT" />
       <mapping pattern=".irbrc" type="PLAIN_TEXT" />
-      <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".legacy" type="PLAIN_TEXT" />
+      <mapping ext="development-ssl" type="PLAIN_TEXT" />
+      <mapping ext="foreman" type="PLAIN_TEXT" />
       <mapping ext="br" type="PLAIN_TEXT" />
       <mapping ext="development-resque" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
       <mapping ext="development-https" type="PLAIN_TEXT" />
-      <mapping ext="foreman" type="PLAIN_TEXT" />
-      <mapping ext="jsx" type="PLAIN_TEXT" />
-      <mapping ext="development-ssl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
