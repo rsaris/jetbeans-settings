@@ -3593,6 +3593,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/omniauth-google-oauth2-0.6.0/examples" />
       </excluded>
     </library>
+    <library name="omniauth-google-oauth2 (v0.8.1, rbenv: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/omniauth-google-oauth2-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/omniauth-google-oauth2-0.8.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/omniauth-google-oauth2-0.8.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/omniauth-google-oauth2-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/omniauth-google-oauth2-0.8.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/omniauth-google-oauth2-0.8.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/omniauth-google-oauth2-0.8.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/omniauth-google-oauth2-0.8.1/examples" />
+      </excluded>
+    </library>
     <library name="omniauth-linkedin-oauth2 (v1.0.0, rbenv: 2.5.8) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
