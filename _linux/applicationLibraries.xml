@@ -4419,6 +4419,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/rails-controller-testing-1.0.4/test" />
       </excluded>
     </library>
+    <library name="rails-controller-testing (v1.0.5, rbenv: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rails-controller-testing-1.0.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rails-controller-testing-1.0.5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rails-controller-testing-1.0.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rails-controller-testing-1.0.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rails-controller-testing-1.0.5/test" />
+      </excluded>
+    </library>
     <library name="rails-dom-testing (v2.0.3, rbenv: 2.5.8) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
