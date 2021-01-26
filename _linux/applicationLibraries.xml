@@ -3868,6 +3868,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/parser-3.0.0.0/bin" />
       </excluded>
     </library>
+    <library name="pastel (v0.8.0, rbenv: 2.5.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/pastel-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/pastel-0.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="pdfkit (v0.8.2, rbenv: 2.5.8) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6387,6 +6398,61 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="tty-color (v0.6.0, rbenv: 2.5.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/tty-color-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/tty-color-0.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="tty-cursor (v0.7.1, rbenv: 2.5.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/tty-cursor-0.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/tty-cursor-0.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="tty-prompt (v0.23.0, rbenv: 2.5.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/tty-prompt-0.23.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/tty-prompt-0.23.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="tty-reader (v0.9.0, rbenv: 2.5.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/tty-reader-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/tty-reader-0.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="tty-screen (v0.8.1, rbenv: 2.5.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/tty-screen-0.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/tty-screen-0.8.1/lib" />
+      </SOURCES>
+    </library>
     <library name="twilio-ruby (v5.26.0, rbenv: 2.5.8) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6877,6 +6943,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/will_paginate-3.1.7/spec" />
+      </excluded>
+    </library>
+    <library name="wisper (v2.0.1, rbenv: 2.5.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/wisper-2.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/wisper-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/wisper-2.0.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/wisper-2.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/wisper-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/wisper-2.0.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/wisper-2.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/wisper-2.0.1/spec" />
       </excluded>
     </library>
     <library name="with_advisory_lock (v4.6.0, rbenv: 2.5.8) [gem]" type="rubylib">
