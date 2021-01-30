@@ -933,6 +933,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/bundler-2.1.4/man" />
       </excluded>
     </library>
+    <library name="bundler (v2.2.7, rbenv: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/bundler-2.2.7/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/bundler-2.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/bundler-2.2.7/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/bundler-2.2.7/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/bundler-2.2.7/exe" />
+      </excluded>
+    </library>
     <library name="byebug (v11.0.1, rbenv: 2.5.8) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4982,6 +4998,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/regexp_parser-1.8.2/spec" />
       </excluded>
     </library>
+    <library name="regexp_parser (v2.0.3, rbenv: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/regexp_parser-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/regexp_parser-2.0.3/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/regexp_parser-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/regexp_parser-2.0.3/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/regexp_parser-2.0.3/spec" />
+      </excluded>
+    </library>
     <library name="representable (v3.0.4, rbenv: 2.5.8) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5363,6 +5395,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-0.92.0/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-0.92.0/assets" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-0.92.0/config" />
+      </excluded>
+    </library>
+    <library name="rubocop (v1.9.0, rbenv: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.9.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.9.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.9.0/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.9.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.9.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.9.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.9.0/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.9.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.9.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.9.0/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.6/lib/ruby/gems/2.6.0/gems/rubocop-1.9.0/config" />
       </excluded>
     </library>
     <library name="rubocop-ast (v0.1.0, rbenv: 2.5.8) [gem]" type="rubylib">
