@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Open prod db console">
+      <action id="Jdbc.OpenConsole.Any" />
+    </macro>
+  </component>
+</application>
