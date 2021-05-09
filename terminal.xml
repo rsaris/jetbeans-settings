@@ -3,5 +3,6 @@
     <option name="myShellIntegration" value="false" />
     <option name="myShellPath" value="/bin/bash -i" />
     <option name="mySoundBell" value="false" />
+    <option name="myTabName" value="Local" />
   </component>
 </application>
