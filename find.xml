@@ -3,8 +3,11 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rb" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,8 +24,8 @@
     <mask>*.js*</mask>
     <mask>*.js.erb</mask>
     <mask>*.scss</mask>
-    <mask>*.rb</mask>
-    <mask>*.html.erb</mask>
     <mask>*.jsx</mask>
+    <mask>*.html.erb</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
