@@ -30,6 +30,8 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Console.History.Browse" />
+  <action id="Console.Jdbc.BrowseHistory" />
   <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.NavigateExportedAction">
     <keyboard-shortcut first-keystroke="alt f7" />
@@ -115,6 +117,7 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
+  <action id="PerforceDirect.Edit" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
@@ -130,6 +133,9 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="ShowExperiments">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
@@ -152,6 +158,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
   <action id="TodoViewGroupByFlattenPackage" />
+  <action id="ToggleFindInSelection" />
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift alt 1" />
   </action>
