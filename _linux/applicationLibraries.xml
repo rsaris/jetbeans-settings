@@ -3401,6 +3401,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/debase-2.3.2/exto" />
       </excluded>
     </library>
+    <library name="debase (v2.3.2, rbenv: 2.6.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/debase-2.3.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/debase-2.3.2/exto" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/debase-2.3.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/debase-2.3.2/exto" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/debase-2.3.2/exto" />
+      </excluded>
+    </library>
     <library name="debase-ruby_core_source (v0.10.11, rbenv: 2.5.8) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3421,6 +3437,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/debase-ruby_core_source-0.10.12/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.12, rbenv: 2.6.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/debase-ruby_core_source-0.10.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/debase-ruby_core_source-0.10.12/lib" />
       </SOURCES>
     </library>
     <library name="declarative (v0.0.10, rbenv: 2.5.8) [gem]" type="rubylib">
@@ -5000,6 +5027,31 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/foreman-0.87.2/man" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/foreman-0.87.2/data" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/foreman-0.87.2/spec" />
+      </excluded>
+    </library>
+    <library name="foreman (v0.87.2, rbenv: 2.6.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/foreman-0.87.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/foreman-0.87.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/foreman-0.87.2/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/foreman-0.87.2/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/foreman-0.87.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/foreman-0.87.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/foreman-0.87.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/foreman-0.87.2/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/foreman-0.87.2/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/foreman-0.87.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/foreman-0.87.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/foreman-0.87.2/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/foreman-0.87.2/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/foreman-0.87.2/spec" />
       </excluded>
     </library>
     <library name="forwardable (v1.2.0, rbenv: 2.6.7) [gem]" type="rubylib">
@@ -6928,6 +6980,37 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/contrib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/doc-api" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/examples" />
+      </excluded>
+    </library>
+    <library name="kwalify (v0.7.2, rbenv: 2.6.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/doc-api" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/doc-api" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/doc-api" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/kwalify-0.7.2/examples" />
       </excluded>
     </library>
     <library name="less (v2.6.0, rbenv: 2.5.8) [gem]" type="rubylib">
@@ -11475,6 +11558,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/reek-6.0.4/.github" />
       </excluded>
     </library>
+    <library name="reek (v6.0.6, rbenv: 2.6.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/reek-6.0.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/reek-6.0.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/reek-6.0.6/logo" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/reek-6.0.6/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/reek-6.0.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/reek-6.0.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/reek-6.0.6/logo" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/reek-6.0.6/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/reek-6.0.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/reek-6.0.6/logo" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/reek-6.0.6/.github" />
+      </excluded>
+    </library>
     <library name="regexp_parser (v1.8.2, rbenv: 2.5.8) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12599,6 +12704,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.7/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.1/bin" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v2.3.1, rbenv: 2.6.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.8/lib/ruby/gems/2.6.0/gems/ruby-debug-ide-2.3.1/bin" />
       </excluded>
     </library>
     <library name="ruby-prof (v0.17.0, rbenv: 2.5.8) [gem]" type="rubylib">
