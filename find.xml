@@ -21,8 +21,8 @@
     <mask>*.js*</mask>
     <mask>*.js.erb</mask>
     <mask>*.scss</mask>
-    <mask>*.jsx</mask>
     <mask>*.html.erb</mask>
     <mask>*.rb</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
