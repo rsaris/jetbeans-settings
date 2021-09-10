@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="release-notes" type="AUTO_DETECTED" />
       <mapping pattern="workflows" type="AUTO_DETECTED" />
+      <mapping pattern="db-migrate" type="AUTO_DETECTED" />
       <mapping pattern="api_key_serializer" type="AUTO_DETECTED" />
       <mapping ext="webp" type="Image" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
