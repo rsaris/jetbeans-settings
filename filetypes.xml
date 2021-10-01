@@ -1,9 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="release-notes" type="AUTO_DETECTED" />
       <mapping pattern="workflows" type="AUTO_DETECTED" />
-      <mapping pattern="api_key_serializer" type="AUTO_DETECTED" />
       <mapping ext="webp" type="Image" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
@@ -18,6 +16,7 @@
       <mapping ext="development-resque" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
       <mapping ext="development-https" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
