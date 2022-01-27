@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb" />
+    <option name="FILE_MASK" value="*.js.erb" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -16,7 +16,6 @@
     <mask>rb</mask>
     <mask>*.erb</mask>
     <mask>*.js*</mask>
-    <mask>*.js.erb</mask>
     <mask>*.scss</mask>
     <mask>*.jsx</mask>
     <mask>*.html.rb</mask>
@@ -32,5 +31,6 @@
     <mask>*.rbw</mask>
     <mask>*.js</mask>
     <mask>*.rb</mask>
+    <mask>*.js.erb</mask>
   </component>
 </application>
