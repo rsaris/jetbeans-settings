@@ -20,7 +20,6 @@
     <mask>*.scss</mask>
     <mask>*.jsx</mask>
     <mask>*.html.rb</mask>
-    <mask>*.html.erb</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -33,5 +32,6 @@
     <mask>*.rb</mask>
     <mask>*.js.erb</mask>
     <mask>*.js</mask>
+    <mask>*.html.erb</mask>
   </component>
 </application>
