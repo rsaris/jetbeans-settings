@@ -36,5 +36,6 @@
     <mask>*.js</mask>
     <mask>*.html.erb</mask>
     <mask>_spec.rb</mask>
+    <mask>.html.erb</mask>
   </component>
 </application>
