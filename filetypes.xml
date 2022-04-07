@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="clear-dead-branches" type="AUTO_DETECTED" />
       <mapping pattern="stackhawk" type="AUTO_DETECTED" />
+      <mapping pattern="sidekiq-pro-setup" type="AUTO_DETECTED" />
       <mapping pattern="workflows" type="AUTO_DETECTED" />
       <mapping ext="webp" type="Image" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
