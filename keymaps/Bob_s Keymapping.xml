@@ -31,6 +31,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+  </action>
   <action id="Console.History.Browse" />
   <action id="Console.Jdbc.BrowseHistory" />
   <action id="Console.TableResult.CompareCells" />
@@ -58,7 +61,15 @@
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
   <action id="EditorContextInfo" />
+  <action id="EditorDecreaseFontSizeGlobal">
+    <keyboard-shortcut first-keystroke="shift alt comma" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+  </action>
   <action id="EditorDeleteLine" />
+  <action id="EditorIncreaseFontSizeGlobal">
+    <keyboard-shortcut first-keystroke="shift alt period" />
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+  </action>
   <action id="EditorIndentSelection">
     <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
@@ -73,6 +84,9 @@
   </action>
   <action id="Exit">
     <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl add" />
   </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
