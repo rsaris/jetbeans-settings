@@ -8,5 +8,16 @@
       </blacklist>
       <blacklist language="SQL" />
     </blacklists>
+    <option id="ruby.non.literals" value="false" />
+    <option id="js.only.show.names.for.tagged" value="false" />
+    <option id="js.only.show.names.for.pipes" value="false" />
+    <option id="js.param.hints.show.names.for.tagged" value="false" />
+    <option id="ruby.show.param.grouping" value="false" />
+    <disabledLanguages>
+      <language id="TypeScript" />
+      <language id="JavaScript" />
+      <language id="ruby" />
+      <language id="SQL" />
+    </disabledLanguages>
   </component>
 </application>
