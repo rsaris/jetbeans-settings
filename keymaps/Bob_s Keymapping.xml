@@ -121,6 +121,12 @@
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
+  <action id="MTGitHubThemeContrast">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
+  <action id="MTMonokaiThemeContrast">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
   <action id="Macro.Open Prod DB">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
@@ -193,4 +199,6 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="context.load" />
+  <action id="hg4idea.QFold" />
 </keymap>
