@@ -10,6 +10,9 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateQuokkaToolWindow">
     <keyboard-shortcut first-keystroke="alt q" />
@@ -121,14 +124,15 @@
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
+  <action id="Jdbc.OpenConsole.Any">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
   <action id="MTGitHubThemeContrast">
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
   <action id="MTMonokaiThemeContrast">
     <keyboard-shortcut first-keystroke="shift alt d" />
-  </action>
-  <action id="Macro.Open Prod DB">
-    <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
@@ -150,6 +154,7 @@
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
+  <action id="RecentChanges" />
   <action id="Refactorings.QuickListPopupAction" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
